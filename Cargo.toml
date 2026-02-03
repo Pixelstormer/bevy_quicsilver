@@ -25,7 +25,7 @@ crossbeam-channel = "0.5"
 # Faster than std hashmap
 hashbrown = "0.15"
 # Part of quinn-proto's API, used for moving data around without copying
-bytes = "1.9"
+bytes = "1.11"
 # Custom error types
 thiserror = "2.0"
 # Core dependency; sans-I/O implementation of QUIC
